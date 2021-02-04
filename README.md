@@ -17,6 +17,6 @@ Using the data, we need to determine the important factors that can help in pred
     9. Hypertension: True or False if the patient is hypertensive.
     10. Diabetes: True or False if the patient has diabetes.
     11. Alcoholism: true or False if the patient takes alcohol.
-    12. Handicap: True or False if the patient is handicapped.
+    12. Handicap: True (1) or False (0) if the patient is handicapped.
     13. SMSReceived: True or False if the patient received an SMS prior the appointment.
     14. NoShow: Yes or No if the patient made it for the appointment
