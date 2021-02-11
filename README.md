@@ -9,8 +9,8 @@ Using the data, we need to determine the important factors that can help in pred
     1. PatientId: Unique identification number for the patients.
     2. AppointmentID: Identification of each patient's appointment.
     3. Gender: Male or Female.
-    4. ScheduledDay: The day of the appointment.
-    5. AppointmentDay: The day the patients made the appointment.
+    4. ScheduledDay: The day the appointments were made.
+    5. AppointmentDay: The day of the appointments.
     6. Age: Age of the patient
     7. Neighbourhood: The city the appointment takes place.
     8. Scholarship
